@@ -12,7 +12,8 @@ Course: MCA
 Agile Scrum
 
 ## Project Duration
-4 Weeks
+
+4 Sprints (2 Weeks per Sprint)
 
 ## Technologies
 - Python
@@ -20,9 +21,17 @@ Agile Scrum
 - HTML
 - CSS
 - SQLite
+- 
+## Implemented Modules
 
-## Modules
+1. Skill Input
+2. Job Recommendation
+3. Skill Matching
+4. Match Percentage Display
+
+## Future Enhancements
+
 1. User Authentication
 2. Resume Analysis
-3. Job Recommendation
-4. Admin Dashboard
+3. Admin Dashboard
+4. Database Integration
