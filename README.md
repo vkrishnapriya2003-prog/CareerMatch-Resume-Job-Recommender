@@ -1,8 +1,6 @@
 # CareerMatch-Resume-Job-Recommender
 Agile Release and Sprint Plan for CareerMatch
-# CareerMatch
-
-AI-Powered Resume Analysis and Intelligent Job Recommendation System
+# CareerMatch – AI-Powered Resume Analysis and Intelligent Job Recommendation System
 
 ## Student Details
 Name: V. Krishnapriya
